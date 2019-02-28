@@ -1,0 +1,4 @@
+<?php
+/**
+ * Instalador Giga Cursos
+ */
